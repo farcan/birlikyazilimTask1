@@ -1,0 +1,19 @@
+{
+    "standarduruslar": [
+        {
+            "baslangıc": "10:00",
+            "bitis": "10.15",
+            "durus_nedeni": "Cay Molasi"
+        },
+        {
+            "baslangıc": "12:00",
+            "bitis": "12.30",
+            "durus_nedeni": "Yemek Molasi"
+        },
+        {
+            "baslangıc": "15:00",
+            "bitis": "15.15",
+            "durus_nedeni": "Cay Molasi"
+        }
+    ]
+}

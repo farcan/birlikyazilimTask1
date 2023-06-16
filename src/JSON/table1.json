@@ -1,0 +1,53 @@
+{
+    "uretimOperasyonBild": [
+        {
+            "kayit_no": "1",
+            "baslangic": "5/23/20 7.30",
+            "baslangicSaati": "",
+            "bitis": "5/23/20 8: 30",
+            "bitisSaati": "",
+            "toplamSure": "01:00",
+            "Status": "URETIM",
+            "DuruşNedeni": ""
+        },
+        {
+            "kayit_no": "2",
+            "baslangic": "5/23/20 8.30",
+            "baslangicSaati": "",
+            "bitis": "5/23/20 12:00",
+            "bitisSaati": "",
+            "toplamSure": "03:30",
+            "Status": "URETIM",
+            "DuruşNedeni": ""
+        },
+        {
+            "kayit_no": "3",
+            "baslangic": "5/23/20 12.00",
+            "baslangicSaati": "",
+            "bitis": "5/23/20 13:00",
+            "toplamSure": "01:00",
+            "Status": "URETIM",
+            "DuruşNedeni": ""
+        },
+        {
+            "kayit_no": "4",
+            "baslangic": "5/23/20 13.00",
+            "baslangicSaati": "",
+            "bitis": "5/23/20 13:45",
+            "bitisSaati": "",
+            "toplamSure": "00:45",
+            "Status": "DURUS",
+            "DuruşNedeni": "ARIZA"
+        },
+        {
+            "kayit_no": "5",
+            "baslangic": "5/23/20 13.45",
+            "baslangicSaati": "",
+            "bitis": "5/23/20 17:30",
+            "bitisSaati": "",
+            "toplamSure": "03:45",
+            "Status": "URETIM",
+            "DuruşNedeni": ""
+        }
+    ]
+}
