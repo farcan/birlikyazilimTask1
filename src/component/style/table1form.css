@@ -1,0 +1,8 @@
+.input-container {
+    margin: 10px;
+    display: inline-flex !important;
+    gap: 15px;
+
+    justify-content: space-between;
+    align-items: center;
+}
